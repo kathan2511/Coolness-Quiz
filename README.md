@@ -8,3 +8,4 @@ Simple and Materialized flutter quiz application.
 Gets scores (which users dont know how the program calculates)
 Displays if you have a life or if you need one.
 For any queries mail me at  - kathan2511@gmail.com
+LinkedIn - https://www.linkedin.com/in/kathan-shah-62426a188
